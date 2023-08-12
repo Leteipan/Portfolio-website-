@@ -19,7 +19,7 @@ body {
 .hero {
   height: 100vh;
   background-image: url("..");
-  background-color: gray;
+  background-color: #ee7621;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
